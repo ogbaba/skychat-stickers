@@ -26,6 +26,7 @@ let sticker = [
   {nom : ':ouh:', url : 'https://api.risibank.fr/cache/stickers/d76/7605-full.png'},
   {nom : ':thug:', url : 'https://api.risibank.fr/cache/stickers/d70/7056-full.png'},
   {nom : ':baroque:', url : 'https://api.risibank.fr/cache/stickers/d1299/129904-full.png'},
+  {nom : ':poivron:', url : 'https://api.risibank.fr/cache/stickers/d1333/133305-full.png'},
 ];
 
 document.addEventListener("keydown", function (e) {
