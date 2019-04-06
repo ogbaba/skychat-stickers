@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         skysticker
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Script permettant d'ajouter soi-même de nouveaux stickers à vos messages redsky.fr.
 // @author       You
-// @updateURL 	 https://raw.githubusercontent.com/ogbaba/skychat-stickers/master/stickers.user.js 
-// @downloadURL  https://raw.githubusercontent.com/ogbaba/skychat-stickers/master/stickers.user.js
+// @updateURL 	 https://raw.githubusercontent.com/ogbaba/skychat-stickers/master/main.js 
+// @downloadURL  https://raw.githubusercontent.com/ogbaba/skychat-stickers/master/main.js
 // @match        https://redsky.fr/
 // @grant        none
 // ==/UserScript==
@@ -25,6 +25,7 @@ let sticker = [
   {nom : ':math', url : 'https://api.risibank.fr/cache/stickers/d27/2777-full.png'},
   {nom : ':ouh:', url : 'https://api.risibank.fr/cache/stickers/d76/7605-full.png'},
   {nom : ':thug:', url : 'https://api.risibank.fr/cache/stickers/d70/7056-full.png'},
+  {nom : ':baroque:', url : 'https://api.risibank.fr/cache/stickers/d1299/129904-full.png'},
 ];
 
 document.addEventListener("keydown", function (e) {
