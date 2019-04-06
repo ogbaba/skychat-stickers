@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         skysticker
 // @namespace    http://tampermonkey.net/
-// @version      0.2.2
+// @version      0.2.3
 // @description  Script permettant d'ajouter soi-même de nouveaux stickers à vos messages redsky.fr.
 // @author       You
 // @updateURL 	 https://raw.githubusercontent.com/skychatorg/skychat-stickers/master/stickers.user.js
@@ -17,8 +17,6 @@
 let sticker = [
   {nom : ':larry:', url : 'https://api.risibank.fr/cache/stickers/d1190/119000-full.png'},
   {nom : ':suisse:', url : 'https://api.risibank.fr/cache/stickers/d220/22033-full.png'},
-  {nom : ':gilbert:', url : 'https://api.risibank.fr/cache/stickers/d27/2729-full.png'},
-  {nom : ':dgsi:', url : 'https://api.risibank.fr/cache/stickers/d951/95106-full.png'},
   {nom : ':gilbert:', url : 'https://api.risibank.fr/cache/stickers/d27/2729-full.png'},
   {nom : ':dgsi:', url : 'https://api.risibank.fr/cache/stickers/d951/95106-full.png'},
   {nom : ':fritz:', url : 'https://api.risibank.fr/cache/stickers/d100/10050-full.png'},
