@@ -4,8 +4,8 @@
 // @version      0.2
 // @description  Script permettant d'ajouter soi-même de nouveaux stickers à vos messages redsky.fr.
 // @author       You
-// @updateURL 	 https://raw.githubusercontent.com/ogbaba/skychat-stickers/master/main.js 
-// @downloadURL  https://raw.githubusercontent.com/ogbaba/skychat-stickers/master/main.js
+// @updateURL 	 https://raw.githubusercontent.com/ogbaba/skychat-stickers/master/stickers.user.js 
+// @downloadURL  https://raw.githubusercontent.com/ogbaba/skychat-stickers/master/stickers.user.js
 // @match        https://redsky.fr/
 // @grant        none
 // ==/UserScript==
